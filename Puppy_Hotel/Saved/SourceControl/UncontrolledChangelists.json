@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/c2189491/Documents/GitHub/DinkGameJam2024/Puppy_Hotel/Content/Levels/Nintendogs/LVL_Nintendogs.umap",
 				"C:/Users/B1260591/Documents/GitHub/DinkGameJam2024/Puppy_Hotel/Content/BulePrints/Component/LivingJuice_Component.uasset",
 				"C:/Users/B1260591/Documents/Unreal Projects/Puppy_Hotel/Content/Levels/Demo_main/NewMap_HLOD0_Instancing.uasset",
 				"C:/Users/B1260591/Documents/Unreal Projects/Puppy_Hotel/Content/__ExternalActors__/Levels/Demo_main/NewMap/8/5O/EK7X7B6OME2S3N3JR9UKBO.uasset",
@@ -298,8 +299,7 @@
 				"C:/Users/B1260591/Documents/GitHub/DinkGameJam2024/Puppy_Hotel/Content/__ExternalActors__/Levels/Demo_main/NewMap/5/9B/T40TSE4KP4HZ5K114HNSWN.uasset",
 				"C:/Users/B1260591/Documents/GitHub/DinkGameJam2024/Puppy_Hotel/Content/__ExternalActors__/Levels/Demo_main/NewMap/1/G3/ATBJTGIB97H7U1LLFSPBFW.uasset",
 				"C:/Users/B1260591/Documents/GitHub/DinkGameJam2024/Puppy_Hotel/Content/__ExternalActors__/Levels/Demo_main/NewMap/3/V8/CQDNHIWTE3E7MV7F4NHZ3U.uasset",
-				"C:/Users/B1260591/Documents/GitHub/DinkGameJam2024/Puppy_Hotel/Content/Levels/Demo_main/NewMap.umap",
-				"C:/Users/B1260591/Documents/GitHub/DinkGameJam2024/Puppy_Hotel/Content/BulePrints/Component/LivingJuice_Component.uasset"
+				"C:/Users/B1260591/Documents/GitHub/DinkGameJam2024/Puppy_Hotel/Content/Levels/Demo_main/NewMap.umap"
 			]
 		}
 	]
